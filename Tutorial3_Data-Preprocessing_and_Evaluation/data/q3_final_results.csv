@@ -1,0 +1,4 @@
+Model Rank,Dataset,Parameters,Correct,Incorrect,Accuracy (TEST),Precision (TEST),Recall (TEST),F1 (TEST)
+4,additional,"{'class_weight': None, 'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 2, 'splitter': 'best'}",247,33,0.8821428571428571,0.897491337501164,0.9056836556836557,0.8996256546748459
+5,additional,"{'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'splitter': 'best'}",247,33,0.8821428571428571,0.8982954524514776,0.9047307797307798,0.8999130966646655
+6,additional,"{'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'min_samples_split': 5, 'splitter': 'best'}",248,32,0.8857142857142857,0.9012699779512247,0.9078733453733454,0.9028058005168577

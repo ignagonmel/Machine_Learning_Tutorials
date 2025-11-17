@@ -1,0 +1,4 @@
+Model,Train Successes,Train Total Maps,Train Success Rate,Avg Steps (Success)
+Model_1_additional,6,8,0.75,13.666666666666666
+Model_2_additional,6,8,0.75,12.0
+Model_3_additional,6,8,0.75,13.5

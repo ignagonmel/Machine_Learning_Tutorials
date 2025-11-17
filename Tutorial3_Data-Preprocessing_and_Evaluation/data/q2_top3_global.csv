@@ -1,0 +1,4 @@
+Dataset,params,mean_test_score
+additional,"{'class_weight': None, 'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 2, 'splitter': 'best'}",0.8758928571428573
+additional,"{'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'splitter': 'best'}",0.8741071428571429
+additional,"{'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'min_samples_split': 5, 'splitter': 'best'}",0.86875

@@ -1,0 +1,4 @@
+Model,Avg Reward
+MLP Regressor,-889.6744148784119
+Decision Tree,-996.2613684192587
+Linear Regression,-1163.4111440474928
